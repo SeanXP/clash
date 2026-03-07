@@ -3,9 +3,8 @@
 #DOMAIN-KEYWORD,openai
 
 # 域名后缀匹配
+DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,grok.com
-DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,diabrowser.engineering
-DOMAIN-SUFFIX,diabrowser.com
